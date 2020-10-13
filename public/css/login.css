@@ -1,0 +1,27 @@
+.mt-15p {
+    margin-top: 10%;
+}
+
+#LoginForm .panel-heading {
+    background-image: url('../images/header.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 215px;
+}
+
+#LoginForm #SocicalIcon {
+    text-align: center;
+}
+
+#LoginForm #SocicalIcon i {
+    font-size: 36px;
+    margin: 20px;
+}
+
+#LoginForm h3 {
+    font-weight: bold;
+}
+
+#LoginForm input[type="password"] {
+    margin-top: 16px;
+}
